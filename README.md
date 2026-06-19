@@ -29,9 +29,5 @@ Dataset contains images of people with and without masks.
 https://github.com/user-attachments/assets/4a684a22-8cd2-4373-a052-9c7977df0d56
 
 
-
-https://github.com/user-attachments/assets/1c217d76-94ef-4a48-9342-fc939cc8fdb5
-
-
 ## 👨‍💻 Author
 Tarun Kumar
